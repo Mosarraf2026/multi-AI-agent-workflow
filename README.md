@@ -25,7 +25,7 @@ The system integrates various platforms to automate end-to-end business workflow
 *   LinkedIn API
 
 ## Connect With Me
-*   **LinkedIn:** https://www.linkedin.com/in/omar-faruk-b819b1280/
-*   **GitHub:** [github.com/omar-dev205](https://github.com/omar-dev205)
+*   **LinkedIn:https://www.linkedin.com/in/omar-faruk-b819b1280/
+*   **GitHub:https://github.com/omar-dev205
 
 *Open for collaborations and opportunities in AI & Automation.*
