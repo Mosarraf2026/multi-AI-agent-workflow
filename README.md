@@ -24,8 +24,4 @@ The system integrates various platforms to automate end-to-end business workflow
 *   HubSpot CRM
 *   LinkedIn API
 
-## Connect With Me
-*   **LinkedIn:https://www.linkedin.com/in/omar-faruk-b819b1280/
-*   **GitHub:https://github.com/omar-dev205
 
-*Open for collaborations and opportunities in AI & Automation.*
